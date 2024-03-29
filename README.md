@@ -6,5 +6,5 @@ Just drop your mp3 files into music folder.
 requirements are pygame and tkinter
 
 ```sh
-pip pygame tkinter
+pip install pygame tkinter
 ```
